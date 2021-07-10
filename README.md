@@ -1,4 +1,4 @@
-[![Social banner for jh3y](https://github.com/jh3y/jh3y/raw/master/assets/header-banner--optimized.svg)]
+![Social banner](Blue and White Banner.gif)
 
 ### Hi there 👋
 
