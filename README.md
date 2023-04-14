@@ -14,12 +14,12 @@
   
 
 
-<img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahana-mukherjee&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=00000000&title_color=ff7a0d&text_color=F6C819&icon_color=ffb300&layout=compact" />[<img width="600px" src="https://github-readme-activity-graph.cyclic.app/graph?username=ahana-mukherjee&theme=github-compact" />](https://github.com/PrinceSinghHub/github-readme-activity-graph)
+<img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahana-mukherjee&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=00000000&title_color=ff7a0d&text_color=F6C819&icon_color=ffb300&layout=compact" />[<img width="600px" src="https://github-readme-activity-graph.cyclic.app/graph?username=ahana-mukherjee&color=afacaf&line=f6c819&point=ff840d&area=true&hide_border=true&theme=github-compact" />](https://github.com/PrinceSinghHub/github-readme-activity-graph)
 
 </div>
 
 <!--
----
+---[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ahana-mukherjee&bg_color=000000&color=afacaf&line=f6c819&point=ff840d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 [![](https://visitcount.itsvg.in/api?id=ahana-mukherjee&icon=0&color=0)](https://visitcount.itsvg.in)
 --!>
 
