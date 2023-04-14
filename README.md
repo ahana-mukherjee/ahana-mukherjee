@@ -4,8 +4,7 @@
 
 ## 📊 GitHub Stats:
 
-  
-![](https://komarev.com/ghpvc/?username=ahana-mukherjee&style=flat-square)
+[![GitHub followers](https://img.shields.io/github/followers/ahana-mukherjee.svg?style=social&label=Follow)](https://github.com/ahana-mukherjee?tab=followers)  ![](https://komarev.com/ghpvc/?username=ahana-mukherjee&style=flat-square)
   
   <div align="center">
 
