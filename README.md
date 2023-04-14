@@ -1,4 +1,4 @@
-![Social banner](https://github.com/ahana-mukherjee/ahana-mukherjee/blob/a412428d61058f177d27a8aa6ebfbce36afdc0ed/Blue%20and%20White%20Banner.gif)
+<img width="1000px" src="https://github.com/ahana-mukherjee/ahana-mukherjee/blob/main/banner.png" />
 
 
 
