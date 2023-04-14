@@ -4,7 +4,7 @@
 
 [<img width="100px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ahana-mukherjee-0552/) &nbsp;
 [<img width="93px" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/AhanaMukherjee_) &nbsp;
-[<img width="110px" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />](https://www.instagram.com/_ahanamukherjee_/?next=%2F) &nbsp;
+[<img width="113px" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />](https://www.instagram.com/_ahanamukherjee_/?next=%2F) &nbsp;
 [<img width="80px" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:ahana.mukherjee1a@gmail.com?subject=Hello%20Ahana,%20From%20Github)
 
 ## 📊 GitHub Stats:
