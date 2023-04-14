@@ -8,7 +8,7 @@
   
   <div align="center">
 
-<img width="400px" src="https://github-readme-stats.vercel.app/api?username=ahana-mukherjee&custom_title=Ahana's+GitHub+stats&show_icons=true&&hide_border=true&bg_color=00000000&title_color=ff7a0d&text_color=F6C819&icon_color=ffb300&cache_seconds=1800&include_all_commits=true&count_private=true" />
+<img width="400px" src="https://github-readme-stats.vercel.app/api?username=ahana-mukherjee&custom_title=Ahana's+GitHub+Stats&show_icons=true&&hide_border=true&bg_color=00000000&title_color=ff7a0d&text_color=F6C819&icon_color=ffb300&cache_seconds=1800&include_all_commits=true&count_private=true" />
 <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=ahana-mukherjee&background=00000000&hide_border=true&stroke=F6C819&ring=ff960d&mode=dailyly&fire=ffd500&currStreakNum=ff7a0d&sideNums=ff7a0d&currStreakLabel=F6C819&sideLabels=F6C819&dates=F6C819" />
   
   
