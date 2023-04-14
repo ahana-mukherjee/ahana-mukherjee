@@ -1,12 +1,24 @@
 ![Social banner](https://github.com/ahana-mukherjee/ahana-mukherjee/blob/a412428d61058f177d27a8aa6ebfbce36afdc0ed/Blue%20and%20White%20Banner.gif)
 
 <div align='center'>
-
+<!--
   <h1 align='center'> Hi there! 👋</h1>
   <h2>I'm Ahana.</h2>
-
+--!>
 </div>
 
+---
+[![](https://visitcount.itsvg.in/api?id=ahana-mukherjee&icon=0&color=0)](https://visitcount.itsvg.in)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ahana-mukherjee&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ahana-mukherjee&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahana-mukherjee&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<!--
+---
+[![](https://visitcount.itsvg.in/api?id=ahana-mukherjee&icon=0&color=0)](https://visitcount.itsvg.in)
+--!>
 <!--
 **ahana-mukherjee/ahana-mukherjee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
