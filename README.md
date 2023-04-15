@@ -5,7 +5,7 @@
 🔭 I’m currently a CSE Undergrad student at Institute of Engineering & Management, Kolkata.<br>
 🌱 I’m currently working on my Machine Learning skills.<br>
 👩‍💻 I'm currently learning Data Science.<br>
-😄 I love exploring the ever-expanding domain of technology and learn new skills.<br>
+😄 I love exploring the ever-expanding domain of technology and learning new skills.<br>
 👯 I’m looking to collaborate on any Machine Learning projects.<br>
 ⚡ Fun fact: Coding is my second-most favorite thing to do. Playing with my dog still tops the list. 
 
