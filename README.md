@@ -1,5 +1,7 @@
 <img width="1000px" src="https://github.com/ahana-mukherjee/ahana-mukherjee/blob/main/banner.png" />
 
+## 💬 About Me:
+
 ## 🌐 Socials:
 
 [<img width="100px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ahana-mukherjee-0552/) &nbsp;
