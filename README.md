@@ -19,8 +19,7 @@
 
 ## 💻 Tech Stacks:
 
-**Languages:** &nbsp; 
-<img width="40px" height="20px" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+ **Languages:** &nbsp;  <img width="40px" height="20px" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
 <img width="50px" height="20px" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> 
 <img width="60px" height="20px" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" /> 
 <img width="80px" height="20px" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> 
