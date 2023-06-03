@@ -66,7 +66,7 @@
   
 
 
-<img width="300px" src="https://github-readme-stats-ahana-mukherjee.vercel.app/api/top-langs/?username=ahana-mukherjee&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=00000000&title_color=ff7a0d&text_color=F6C819&icon_color=ffb300&layout=compact" />[<img width="500px" src="https://github-readme-activity-graph.cyclic.app/graph?username=ahana-mukherjee&color=afacaf&line=f6c819&point=ff840d&area=true&hide_border=true&theme=github-compact" />](https://github.com/PrinceSinghHub/github-readme-activity-graph)
+<img width="300px" src="https://github-readme-stats-ahana-mukherjee.vercel.app/api/top-langs/?username=ahana-mukherjee&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=00000000&title_color=ff7a0d&text_color=F6C819&icon_color=ffb300&layout=compact" />[<img width="500px" src="https://github-readme-activity-graph-ahana-mukherjee.vercel.app/graph?username=ahana-mukherjee&color=afacaf&line=f6c819&point=ff840d&area=true&hide_border=true&theme=github-compact" />](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
